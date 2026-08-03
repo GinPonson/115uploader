@@ -11,3 +11,8 @@ tokens.json
 # macOS 系统元数据与本地截图，避免噪声与跨平台差异。
 .DS_Store
 115-login.png
+
+# 构建产物，由 uv build 生成并通过 GitHub Release 资产分发，不入版本控制。
+dist/
+build/
+*.egg-info/
