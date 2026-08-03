@@ -2,7 +2,7 @@
 
 一个轻量的 Python CLI，用 115 App 扫码登录后，把指定文件上传到 115 网盘。
 
-> English version: [README.md](./README.md)
+**[简体中文]** | [English](./README.md)
 
 ## 功能
 

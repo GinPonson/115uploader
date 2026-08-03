@@ -3,7 +3,7 @@
 A lightweight Python CLI that logs in via the 115 App QR code and uploads
 specified files to your 115 cloud drive.
 
-> Chinese version: [README.zh-CN.md](./README.zh-CN.md)
+**[English]** | [简体中文](./README.zh-CN.md)
 
 ## Features
 
